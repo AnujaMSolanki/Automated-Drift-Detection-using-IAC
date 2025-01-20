@@ -1,5 +1,0 @@
-Resources:
-  SimpleBucket:
-    Type: AWS::S3::Bucket
-    Properties:
-      BucketName: new-bucket-anuja-22139
