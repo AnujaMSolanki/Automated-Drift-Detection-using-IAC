@@ -1,4 +1,4 @@
-# ReserchProject
+# ResearchProject
 # Automated Drift Detection and Remediation in Infrastructure-as-Code (IaC)
 
 ## Project Overview
